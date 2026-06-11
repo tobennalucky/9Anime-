@@ -1,0 +1,60 @@
+body {
+    background: #212534;
+}
+
+img {
+    
+    height: 40px;
+}
+
+h1 {
+    color: #fff;
+    font-size: 200px;
+}
+
+.home {
+    color: purple;
+
+}
+
+.anime {
+    color: rgb(243, 8, 235);
+    font-size: 50px;
+    margin-top: 20px;
+}
+
+.name {
+    color: yellow;
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+.quote {
+    color: #fff;
+    font-size: 30px;
+    margin-top: 20px;
+}
+
+
+.avacado {
+    color: #28a745;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.banana {
+    color: black;
+    font-weight: bold;
+    text-align: justify;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 70%;
+}
+
+.coconut {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
